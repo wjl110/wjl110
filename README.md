@@ -1,11 +1,7 @@
 ### Hi there 👋 welcome to bytedance‘s internet space !
-
-
-![XR's GitHub Stats](https://github-readme-stats.vercel.app/api?username=wjl110&show_icons=true&count_private=true&hide=prs&theme=default_repocard)
-
-
 ![](https://visitor-badge.glitch.me/badge?page_id=wjl110)
 
+![XR's GitHub Stats](https://github-readme-stats.vercel.app/api?username=wjl110&show_icons=true&count_private=true&hide=prs&theme=default_repocard)
 
 # linux卡片
 [![](https://img.shields.io/badge/OS-kali%20Linux-33aadd?style=flat-square&logo=arch-linux&logoColor=ffffff)]
