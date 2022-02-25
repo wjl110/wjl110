@@ -9,7 +9,7 @@
 ![](https://img.shields.io/badge/-Nintendo%20Switch-e60012?style=flat-square&logo=nintendo%20switch&logoColor=ffffff)
 [![](https://img.shields.io/badge/Steam-171a21?style=flat-square&logo=steam&logoColor=ffffff)](https://steamcommunity.com/id/antzuhl)
 # About-Me:
-let's move
+let's move...
 - 🔭 I’m currently working on information security.
 - 🌱 I’m currently learning CET-4,NCRE-2.
 - 👯 I’m looking to collaborate on Disney.
