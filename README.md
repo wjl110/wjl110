@@ -6,7 +6,7 @@
 http://124.222.148.227/
 
 #linux卡片
-[![](https://img.shields.io/badge/OS-kali%20Linux-33aadd?style=flat-square&logo=arch-linux&logoColor=ffffff)]
+[![](https://img.shields.io/badge/OS-kali%20Linux-33aadd?style=flat-square&logo=arch-linux&logoColor=ffffff)](http://124.222.148.227/)
 
 #mac卡片
 [![](https://img.shields.io/badge/macOS-Hackintosh-292e33?style=flat-square&logo=apple&logoColor=ffffff)](https://www.tonymacx86.com/)
