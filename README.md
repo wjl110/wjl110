@@ -22,14 +22,14 @@ http://124.222.148.227/
 [![](https://img.shields.io/badge/Steam-171a21?style=flat-square&logo=steam&logoColor=ffffff)](https://steamcommunity.com/id/antzuhl)
 # others
 let's move
-- 🔭 I’m currently working on byte-dance.
-- 🌱 I’m currently learning computer.
+- 🔭 I’m currently working on information security.
+- 🌱 I’m currently learning CET-4,NCRE-2.
 - 👯 I’m looking to collaborate on Disney.
 - 🤔 I’m looking for help with Macbook Air M1.
 - 💬 Ask me about security teachloeage.
-- 📫 How to reach me: like this...
+- 📫 How to reach me: like this...http://124.222.148.227/
 - 😄 Pronouns: you know . just for fun.
-- ⚡ Fun fact:sure ,some times , i felling sad , but go on .
+- ⚡ Fun fact:sure ,some times , i felling sad , but life is go on .
  ✨✨thank for your reading✨✨ i'm so happy!
 
 <!--
