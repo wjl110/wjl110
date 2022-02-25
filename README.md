@@ -2,6 +2,9 @@
 ![XR's GitHub Stats](https://github-readme-stats.vercel.app/api?username=wjl110&show_icons=true&count_private=true&hide=prs&theme=default_repocard)
 ![](https://visitor-badge.glitch.me/badge?page_id=wjl110)
 
+#about-me:
+http://124.222.148.227/
+
 #linux卡片
 [![](https://img.shields.io/badge/OS-kali%20Linux-33aadd?style=flat-square&logo=arch-linux&logoColor=ffffff)]
 
@@ -12,14 +15,22 @@
 [![](https://img.shields.io/badge/iPhone-11-pro?style=flat-square&logo=apple&logoColor=ffffff)](https://www.apple.com/)
 
 #程序语言
-[![](https://img.shields.io/badge/-Python-007396?style=flat-square&logo=python&logoColor=ffffff)](https://reactjs.org/)
+[![](https://img.shields.io/badge/-Python-007396?style=flat-square&logo=python&logoColor=ffffff)](https://python.org/)
 
 #游戏
 ![](https://img.shields.io/badge/-Nintendo%20Switch-e60012?style=flat-square&logo=nintendo%20switch&logoColor=ffffff)
 [![](https://img.shields.io/badge/Steam-171a21?style=flat-square&logo=steam&logoColor=ffffff)](https://steamcommunity.com/id/antzuhl)
 # others
 let's move
-
+- 🔭 I’m currently working on byte-dance.
+- 🌱 I’m currently learning computer.
+- 👯 I’m looking to collaborate on Disney.
+- 🤔 I’m looking for help with Macbook Air M1.
+- 💬 Ask me about security teachloeage.
+- 📫 How to reach me: like this...
+- 😄 Pronouns: you know . just for fun.
+- ⚡ Fun fact:sure ,some times , i felling sad , but go on .
+ ✨✨thank for your reading✨✨ i'm so happy!
 
 <!--
 **wjl110/wjl110** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
