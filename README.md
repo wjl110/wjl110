@@ -5,10 +5,10 @@
 #about-me:
 http://124.222.148.227/
 
-#linux卡片
+#linux - keyword
 [![](https://img.shields.io/badge/OS-kali%20Linux-33aadd?style=flat-square&logo=arch-linux&logoColor=ffffff)](http://124.222.148.227/)
 
-#mac卡片
+#mac - keyword
 [![](https://img.shields.io/badge/macOS-Hackintosh-292e33?style=flat-square&logo=apple&logoColor=ffffff)](https://www.tonymacx86.com/)
 
 #手机设备
@@ -17,7 +17,7 @@ http://124.222.148.227/
 #程序语言
 [![](https://img.shields.io/badge/-Python-007396?style=flat-square&logo=python&logoColor=ffffff)](https://python.org/)
 
-#游戏
+#游戏平台
 ![](https://img.shields.io/badge/-Nintendo%20Switch-e60012?style=flat-square&logo=nintendo%20switch&logoColor=ffffff)
 [![](https://img.shields.io/badge/Steam-171a21?style=flat-square&logo=steam&logoColor=ffffff)](https://steamcommunity.com/id/antzuhl)
 # others
