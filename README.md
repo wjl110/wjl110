@@ -1,5 +1,5 @@
 ### Hi there 👋 welcome to bytedance‘s internet space !
-![XR's GitHub Stats](https://github-readme-stats.vercel.app/api?username=wjl110&show_icons=true&count_private=true&hide=prs&theme=default_repocard)
+![](https://github-readme-stats.vercel.app/api?username=wjl110&show_icons=true&count_private=true&hide=prs&theme=default_repocard)
 ![](https://visitor-badge.glitch.me/badge?page_id=wjl110)
 
 #about-me:
