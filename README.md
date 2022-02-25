@@ -14,8 +14,8 @@ let's move...
 - 🔭 I’m currently working on information security.
 - 🌱 I’m currently learning CET-4,NCRE-2.
 - 👯 I’m looking to collaborate on Disney.
-- 🤔 I’m looking for help with Macbook Air M1.
-- 💬 Ask me about security teachloeage.
+- 🤔 I’m looking for help with quantum mechanics.
+- 💬 Ask me about MacBook Air M1 .
 - 📫 How to reach me: like this...http://124.222.148.227/
 - 😄 Pronouns: you know . just for fun.
 - ⚡ Fun fact:sure ,some times , i felling sad , but life is go on .
