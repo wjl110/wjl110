@@ -11,7 +11,7 @@
 [![](https://img.shields.io/badge/macOS-Hackintosh-292e33?style=flat-square&logo=apple&logoColor=ffffff)](https://www.tonymacx86.com/)
 
 # 手机设备
-[![](https://img.shields.io/badge/iPhone-11pro?style=flat-square&logo=apple&logoColor=ffffff)](https://www.apple.com/)
+[![](https://img.shields.io/badge/iPhone-11-pro?style=flat-square&logo=apple&logoColor=ffffff)](https://www.apple.com/)
 
 # 程序语言
 [![](https://img.shields.io/badge/-Python-007396?style=flat-square&logo=python&logoColor=ffffff)](https://reactjs.org/)
