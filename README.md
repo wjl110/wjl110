@@ -1,25 +1,14 @@
 ### Hi there 👋 welcome to bytedance‘s internet space !
 ![](https://github-readme-stats.vercel.app/api?username=wjl110&show_icons=true&count_private=true&hide=prs&theme=default_repocard)
 ![](https://visitor-badge.glitch.me/badge?page_id=wjl110)
-
-#about-me:
-http://124.222.148.227/
-
-#linux - keyword
 [![](https://img.shields.io/badge/OS-kali%20Linux-33aadd?style=flat-square&logo=arch-linux&logoColor=ffffff)](http://124.222.148.227/)
-
-#mac - keyword
 [![](https://img.shields.io/badge/macOS-Hackintosh-292e33?style=flat-square&logo=apple&logoColor=ffffff)](https://www.tonymacx86.com/)
-
-#手机设备
 [![](https://img.shields.io/badge/iPhone-11-pro?style=flat-square&logo=apple&logoColor=ffffff)](https://www.apple.com/)
-
-#程序语言
 [![](https://img.shields.io/badge/-Python-007396?style=flat-square&logo=python&logoColor=ffffff)](https://python.org/)
-
-#游戏平台
 ![](https://img.shields.io/badge/-Nintendo%20Switch-e60012?style=flat-square&logo=nintendo%20switch&logoColor=ffffff)
 [![](https://img.shields.io/badge/Steam-171a21?style=flat-square&logo=steam&logoColor=ffffff)](https://steamcommunity.com/id/antzuhl)
+## About-me:
+http://124.222.148.227/
 # others
 let's move
 - 🔭 I’m currently working on information security.
