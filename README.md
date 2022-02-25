@@ -1,4 +1,4 @@
-### Hi there 👋 welcome to bytedance‘s internet space !
+### Hi there 👋 welcome to wjl‘s GitHub Space !
 ![](https://github-readme-stats.vercel.app/api?username=wjl110&show_icons=true&count_private=true&hide=prs&theme=default_repocard)
 
 ![](https://visitor-badge.glitch.me/badge?page_id=wjl110)
@@ -8,9 +8,7 @@
 [![](https://img.shields.io/badge/-Python-007396?style=flat-square&logo=python&logoColor=ffffff)](https://python.org/)
 ![](https://img.shields.io/badge/-Nintendo%20Switch-e60012?style=flat-square&logo=nintendo%20switch&logoColor=ffffff)
 [![](https://img.shields.io/badge/Steam-171a21?style=flat-square&logo=steam&logoColor=ffffff)](https://steamcommunity.com/id/antzuhl)
-## About-me:
-http://124.222.148.227/
-# others
+# About-Me:
 let's move
 - 🔭 I’m currently working on information security.
 - 🌱 I’m currently learning CET-4,NCRE-2.
