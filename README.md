@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 welcome to bytedance‘s internet space !
 ![](https://visitor-badge.glitch.me/badge?page_id=wjl110)
 ![](http://antzuhl.cn:4000/get/@wjl110)
 ![XR's GitHub Stats](https://github-readme-stats.vercel.app/api?username=wjl110&show_icons=true&count_private=true&hide=prs&theme=default_repocard)
@@ -11,7 +11,7 @@
 [![](https://img.shields.io/badge/macOS-Hackintosh-292e33?style=flat-square&logo=apple&logoColor=ffffff)](https://www.tonymacx86.com/)
 
 # 手机设备
-[![](https://img.shields.io/badge/Honor-V30-f5010c?style=flat-square&logo=huawei&logoColor=ffffff)](https://www.apple.com/)
+[![](https://img.shields.io/badge/iPhone-11-pro?style=flat-square&logo=iPhone&logoColor=ffffff)](https://www.apple.com/)
 
 # 程序语言
 [![](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=ffffff)](https://reactjs.org/)
