@@ -16,7 +16,7 @@ let's move...
 - 👯 I’m looking to collaborate on Disney.
 - 🤔 I’m looking for help with quantum mechanics.
 - 💬 Ask me about MacBook Air M1 .
-- 📫 How to reach me: like this...http://124.222.148.227/
+- 📫 How to reach me: like this...https://wjl110.cn/
 - 😄 Pronouns: you know . just for fun.
 - ⚡ Fun fact:sure ,some times , i felling sad , but life is go on .
  ✨✨thank for your reading✨✨ i'm so happy!
