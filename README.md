@@ -8,7 +8,7 @@
 [![](https://img.shields.io/badge/-Python-007396?style=flat-square&logo=python&logoColor=ffffff)](https://python.org/)
 ![](https://img.shields.io/badge/-Nintendo%20Switch-e60012?style=flat-square&logo=nintendo%20switch&logoColor=ffffff)
 [![](https://img.shields.io/badge/Steam-171a21?style=flat-square&logo=steam&logoColor=ffffff)](https://steamcommunity.com/id/antzuhl)
-
+[![996.icu](https://img.shields.io/badge/link-996.icu-red.svg)](https://996.icu)
 # About-Me:
 let's move...
 - 🔭 I’m currently working on information security.
