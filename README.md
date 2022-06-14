@@ -12,7 +12,7 @@
 # About-Me:
 key word
 ---
-information security👨🏻‍💻、CET-4😶‍🌫️,NCRE-2🌟、Electrical Engineering and Automation📄、MacBook Air M1💻、
+information security👨🏻‍💻、IELTS,TOEFL😶‍🌫️,NCRE-4🌟、Electrical Engineering and Automation📄、MacBook Air M1💻、
 let's move...
 - ⚡ Fun fact:sure ,some times , i felling sad , but life is go on .
  ✨✨thank for your reading✨✨ i'm so happy!
