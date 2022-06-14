@@ -1,4 +1,4 @@
-### Hi there 👋 welcome to wjl‘s GitHub Space !
+### Hi there 👋 welcome to wjl110‘s GitHub Space !🚀🚀🚀
 ![](https://github-readme-stats.vercel.app/api?username=wjl110&show_icons=true&count_private=true&hide=prs&theme=default_repocard)
 
 ![](https://visitor-badge.glitch.me/badge?page_id=wjl110)
@@ -10,8 +10,9 @@
 [![](https://img.shields.io/badge/Steam-171a21?style=flat-square&logo=steam&logoColor=ffffff)](https://steamcommunity.com/id/antzuhl)
 [![996.icu](https://img.shields.io/badge/link-996.icu-red.svg)](https://996.icu)
 # About-Me:
-key word 
-information security、CET-4,NCRE-2、Electrical Engineering and Automation、MacBook Air M1、
+key word
+---
+information security👨🏻‍💻、CET-4😶‍🌫️,NCRE-2🌟、Electrical Engineering and Automation📄、MacBook Air M1💻、
 let's move...
 - ⚡ Fun fact:sure ,some times , i felling sad , but life is go on .
  ✨✨thank for your reading✨✨ i'm so happy!
