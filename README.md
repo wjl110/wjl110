@@ -10,14 +10,9 @@
 [![](https://img.shields.io/badge/Steam-171a21?style=flat-square&logo=steam&logoColor=ffffff)](https://steamcommunity.com/id/antzuhl)
 [![996.icu](https://img.shields.io/badge/link-996.icu-red.svg)](https://996.icu)
 # About-Me:
+key word 
+information security、CET-4,NCRE-2、Electrical Engineering and Automation、MacBook Air M1、
 let's move...
-- 🔭 I’m currently working on information security.
-- 🌱 I’m currently learning CET-4,NCRE-2.
-- 👯 I’m looking to collaborate on Disney.
-- 🤔 I’m looking for help with quantum mechanics.
-- 💬 Ask me about MacBook Air M1 .
-- 📫 How to reach me: like this...https://wjl110.xyz/
-- 😄 Pronouns: you know . just for fun.
 - ⚡ Fun fact:sure ,some times , i felling sad , but life is go on .
  ✨✨thank for your reading✨✨ i'm so happy!
 
@@ -34,4 +29,11 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- 🔭 I’m currently working on information security.
+- 🌱 I’m currently learning CET-4,NCRE-2.
+- 👯 I’m looking to collaborate on Disney.
+- 🤔 I’m looking for help with quantum mechanics.
+- 💬 Ask me about MacBook Air M1 .
+- 📫 How to reach me: like this...https://wjl110.xyz/
+- 😄 Pronouns: you know . just for fun.
 -->
