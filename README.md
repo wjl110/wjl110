@@ -9,6 +9,7 @@
 ![](https://img.shields.io/badge/-Nintendo%20Switch-e60012?style=flat-square&logo=nintendo%20switch&logoColor=ffffff)
 [![](https://img.shields.io/badge/Steam-171a21?style=flat-square&logo=steam&logoColor=ffffff)](https://steamcommunity.com/id/antzuhl)
 [![996.icu](https://img.shields.io/badge/link-996.icu-red.svg)](https://996.icu)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wjl110)
 # About-Me:
 [IEEE Paper，First author,ID ：116 （RPG 2025）](https://rpg2025.theiet.org.cn/)
 
