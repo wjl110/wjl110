@@ -10,6 +10,12 @@
 [![](https://img.shields.io/badge/Steam-171a21?style=flat-square&logo=steam&logoColor=ffffff)](https://steamcommunity.com/id/antzuhl)
 [![996.icu](https://img.shields.io/badge/link-996.icu-red.svg)](https://996.icu)
 # About-Me:
+[IEEE Paper，First author,ID ：116 （RPG 2025）](https://rpg2025.theiet.org.cn/)
+
+[China National Invention Patent ID： 2025109759684 | 2025110055992](https://comment.cponline.cnipa.gov.cn/)
+[ORCID:0009-0007-2705-5641](https://orcid.org/0009-0007-2705-5641)
+[Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user=13BFT2UAAAAJ&view_op=list_works&sortby=pubdate)
+
 key word
 ---
 information security👨🏻‍💻、IELTS,TOEFL😶‍🌫️,NCRE-4🌟、Electrical Engineering and Automation📄、MacBook Air M1💻、
