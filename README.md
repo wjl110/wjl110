@@ -13,7 +13,9 @@
 [IEEE Paper，First author,ID ：116 （RPG 2025）](https://rpg2025.theiet.org.cn/)
 
 [China National Invention Patent ID： 2025109759684 | 2025110055992](https://comment.cponline.cnipa.gov.cn/)
-    <a
+
+    
+<a
     id="cy-effective-orcid-url"
     class="underline"
      href="https://orcid.org/0009-0007-2705-5641"
@@ -25,7 +27,7 @@
         style="width: 1em; margin-inline-start: 0.5em"
         alt="ORCID iD icon"/>
       https://orcid.org/0009-0007-2705-5641
-    </a>
+</a>
 
 
 [Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user=13BFT2UAAAAJ&view_op=list_works&sortby=pubdate)
