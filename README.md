@@ -13,7 +13,9 @@
 [IEEE Paper，First author,ID ：116 （RPG 2025）](https://rpg2025.theiet.org.cn/)
 
 [China National Invention Patent ID： 2025109759684 | 2025110055992](https://comment.cponline.cnipa.gov.cn/)
+
 [ORCID:0009-0007-2705-5641](https://orcid.org/0009-0007-2705-5641)
+
 [Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user=13BFT2UAAAAJ&view_op=list_works&sortby=pubdate)
 
 key word
