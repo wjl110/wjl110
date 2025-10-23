@@ -26,7 +26,7 @@
         alt="ORCID iD icon"/>
       https://orcid.org/0009-0007-2705-5641
     </a>
-[ORCID:0009-0007-2705-5641](https://orcid.org/0009-0007-2705-5641)
+
 
 [Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user=13BFT2UAAAAJ&view_op=list_works&sortby=pubdate)
 
