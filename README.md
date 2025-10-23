@@ -39,6 +39,7 @@ information security👨🏻‍💻、IELTS,TOEFL😶‍🌫️,NCRE-4🌟、Ele
 let's move...
 - ⚡ Fun fact:sure ,some times , i felling sad , but life is go on .
  ✨✨thank for your reading✨✨ i'm so happy!
+![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=wjl110)
 
 <!--
 **wjl110/wjl110** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
