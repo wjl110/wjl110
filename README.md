@@ -41,6 +41,10 @@ let's move...
  ✨✨thank for your reading✨✨ i'm so happy!
 ![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=wjl110)
 
+**Star History**
+
+[![Star History Chart](https://api.star-history.com/svg?repos=wjl110/CVE-Master&type=date&legend=top-left)](https://www.star-history.com/#wjl110/CVE-Master&type=date&legend=top-left)
+
 <!--
 **wjl110/wjl110** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
